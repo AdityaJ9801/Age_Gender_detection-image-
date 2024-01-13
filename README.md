@@ -4,7 +4,7 @@ This project consists of two main components:
 1. A machine learning model trained on the Kaggle UTKFace dataset.
 2. A graphical user interface (GUI) application that uses the trained model for age and gender prediction.
 
-## Usage![Screenshot 2024-01-14 012623](https://github.com/AdityaJ9801/Age_Gender_detection-image-/assets/124603391/7cad4e40-a13f-4601-aabb-fe74c8a15602)
+## ![Screenshot 2024-01-14 012623](https://github.com/AdityaJ9801/Age_Gender_detection-image-/assets/124603391/7cad4e40-a13f-4601-aabb-fe74c8a15602)
 
 ## 1. Age and Gender Prediction Model
 
